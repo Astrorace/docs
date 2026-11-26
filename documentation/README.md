@@ -6,7 +6,6 @@
 * **Playable Web Client:** [https://play.astrorace.app](https://play.astrorace.app)
 * **Official X (Twitter):** [https://x.com/astroracegame](https://x.com/astroracegame)
 * **Official GitHub:** [https://github.com/Astrorace](https://github.com/Astrorace)
-* **Discord:** [https://discord.gg/astrorace](https://discord.gg/astrorace) · **Telegram:** [https://t.me/astrorace](https://t.me/astrorace)
 * **Headquarters:** Hong Kong
 
 ---

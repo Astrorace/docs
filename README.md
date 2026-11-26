@@ -15,10 +15,9 @@
 
 > **Official Website:** [https://astrorace.app](https://astrorace.app)  
 > **Playable Web Client:** [https://play.astrorace.app](https://play.astrorace.app)  
-> **Live Web Documentation:** [https://astrorace.app/docs/](https://astrorace.app/docs/)  
+> **Live Web Documentation:** [https://astrorace.gitbook.io/astrorace-docs/](https://astrorace.gitbook.io/astrorace-docs/) · [https://astrorace.app/docs/](https://astrorace.app/docs/)  
 > **Official X (Twitter):** [https://x.com/astroracegame](https://x.com/astroracegame)  
-> **Official GitHub:** [https://github.com/astrorace](https://github.com/astrorace)  
-> **Discord:** [https://discord.gg/astrorace](https://discord.gg/astrorace) · **Telegram:** [https://t.me/astrorace](https://t.me/astrorace)  
+> **Official GitHub:** [https://github.com/Astrorace](https://github.com/Astrorace)  
 > **Headquarters:** Hong Kong
 
 ---

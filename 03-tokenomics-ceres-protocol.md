@@ -5,7 +5,7 @@
 - **Token Name:** `ASTRORACE Coin`
 - **Token Symbol / Ticker:** `ATRC` (`$ATRC`)
 - **Token Status:** Pre-TGE (`Token Not Issued`)
-- **Target Networks:** `Solana (SPL)` & `EVM L2 (Base / Arbitrum ERC-20)`
+- **Target Network:** `BNB Chain (BEP-20)` *(Exclusively on BNB Chain)*
 - **Maximum Total Supply:** `200,000,000 ATRC` (**Hard-capped; Minting Permanently Disabled**)
 - **Initial Circulating Supply at TGE:** `20,600,000 ATRC` (`10.30%` of total supply)
 - **Gameplay Inflation Rate:** `0%` (**Zero Gameplay Minting**)

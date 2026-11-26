@@ -41,8 +41,6 @@
 
 - **Website:** [https://astrorace.app](https://astrorace.app)
 - **Play Now (Browser):** [https://play.astrorace.app](https://play.astrorace.app)
-- **Documentation:** [https://astrorace.app/docs/](https://astrorace.app/docs/)
+- **Documentation:** [https://astrorace.gitbook.io/astrorace-docs/](https://astrorace.gitbook.io/astrorace-docs/) · [https://astrorace.app/docs/](https://astrorace.app/docs/)
 - **X (Twitter):** [https://x.com/astroracegame](https://x.com/astroracegame)
-- **GitHub Organization:** [https://github.com/astrorace](https://github.com/astrorace)
-- **Discord:** [https://discord.gg/astrorace](https://discord.gg/astrorace)
-- **Telegram:** [https://t.me/astrorace](https://t.me/astrorace)
+- **GitHub Organization:** [https://github.com/Astrorace](https://github.com/Astrorace)

@@ -5,7 +5,7 @@
 Traditional PC and console combat racers lock players behind 40–70 GB downloads, while legacy Unity WebGL ports suffer from 100+ MB WASM cold starts and mobile browser memory crashes.
 
 ASTRORACE runs on a native **TypeScript + Babylon.js 9.28 + React 19** architecture featuring:
-- **Sub-3.5-Second Cold Start:** Instant click-to-hangar admission from X, Discord, Telegram, Twitch, or YouTube links with one-click guest onboarding and zero mandatory wallet popups at entry.
+- **Sub-3.5-Second Cold Start:** Instant click-to-hangar admission from X, Twitch, or YouTube links with one-click guest onboarding and zero mandatory wallet popups at entry.
 - **Zero-Allocation Render Loop:** Cached PBR shader materials, adaptive device quality scaling across desktop and mobile viewports, and a procedural WebAudio Doppler engine.
 
 ---

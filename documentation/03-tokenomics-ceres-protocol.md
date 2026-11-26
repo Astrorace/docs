@@ -5,7 +5,7 @@
 - **Token Name:** `ASTRORACE Coin`
 - **Token Symbol / Ticker:** `ATRC` (`$ATRC`)
 - **Token Status:** Pre-TGE (`Token Not Issued`)
-- **Target Networks:** `Solana (SPL)` & `EVM L2 (Base / Arbitrum ERC-20)`
+- **Target Network:** `BNB Chain (BEP-20)` *(Exclusively on BNB Chain)*
 - **Maximum Total Supply:** `200,000,000 ATRC` (**Hard-capped; Minting Permanently Disabled**)
 - **Initial Circulating Supply at TGE:** `20,600,000 ATRC` (`10.30%` of total supply)
 - **Gameplay Inflation Rate:** `0%` (**Zero Gameplay Minting**)
@@ -23,7 +23,7 @@
 - **2.5%** — **Permanently Burned** (mathematically contracting total `$ATRC` supply on every trade)
 - **2.5%** — **Seasonal Syndicate Championship Treasury** (funding recurring esports prize pools from real market velocity rather than token inflation)
 
-Because every wash trade forfeits 5.0% of principal ($$C_N = C_0 \times 0.95^N$$), 14 round-trip wash trades destroy **51.2%** of a bad actor's capital directly into permanent supply burn and honest competitors' tournament vaults.
+Because every wash trade forfeits 5.0% of principal ($C_N = C_0 \times 0.95^N$), 14 round-trip wash trades destroy **51.2%** of a bad actor's capital directly into permanent supply burn and honest competitors' tournament vaults.
 
 ### Additional `$ATRC` Ecosystem Utility Sinks
 - **Apex Quantum Containers (`250 ATRC`):** High-tier module drops backed by PRD Soft/Hard Pity (`41 / 60`).
