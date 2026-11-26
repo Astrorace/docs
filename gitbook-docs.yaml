@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: ASTRORACE Documentation
+  structure:
+    - type: space
+      key: astrorace-docs
+      title: Documentation
+      path: docs
+      default: true
+      content:
+        directory: ./documentation
+        language: en
