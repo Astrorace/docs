@@ -23,7 +23,7 @@
 - **2.5%** — **Permanently Burned** (mathematically contracting total `$ATRC` supply on every trade)
 - **2.5%** — **Seasonal Syndicate Championship Treasury** (funding recurring esports prize pools from real market velocity rather than token inflation)
 
-Because every wash trade forfeits 5.0% of principal ($C_N = C_0 \times 0.95^N$), 14 round-trip wash trades destroy **51.2%** of a bad actor's capital directly into permanent supply burn and honest competitors' tournament vaults.
+Because every wash trade forfeits 5.0% of principal ($$C_N = C_0 \times 0.95^N$$), 14 round-trip wash trades destroy **51.2%** of a bad actor's capital directly into permanent supply burn and honest competitors' tournament vaults.
 
 ### Additional `$ATRC` Ecosystem Utility Sinks
 - **Apex Quantum Containers (`250 ATRC`):** High-tier module drops backed by PRD Soft/Hard Pity (`41 / 60`).
